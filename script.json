@@ -1,6 +1,6 @@
 {
     "HELLO": "Hi there! I’m the helper bot for Chime, your mobile bank.\n![chime](https://raw.githubusercontent.com/sfny/jbot/master/img/chime.png)\nWant to know more about Chime? %[What is Chime?](postback:what_is_chime) %[Learn about ChimeBot](postback:learn_about_chimebot) %[Signup](https://www.chimecard.com/signup)",
-    "HI": "Hey, I'm so glad your here, want to: [Tell MY Friends](postback:tell_my_friends)",
+    "HI": "Hey, I'm so glad your here, want to: %[Tell MY Friends](postback:tell_my_friends)",
     "TELL MY FRIENDS": "Let's tweet about Chime! Here's a tweet that's ready to go: %[Tweet](https://twitter.com/intent/tweet?text=Hey%2C+%40Chime+looks+awesome%21+I%27m+ready+for+a+bank+with+no+fees+and+a+great+mobile+experience+http%3A%2F%2Fchimecard.com)",
     "WHAT IS CHIME?": "Chime is new type of bank, with no fees, that automatically helps you with your money.",
     "LEARN ABOUT CHIMEBOT": "Chimebot is built on top of EstherBot and Smoochbot,%[View on Github](https://github.com/sfny/jbot/)",
