@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the helper bot for Chime, your mobile bank.\n![chime](https://raw.githubusercontent.com/sfny/jbot/master/img/chime.png)\nWant to know more about Chime? %[Yeah, what is Chime?](postback:what_is_chime) %[Learn about ChimeBot](postback:learn_about_chimebot) %[Signup](https://www.chimecard.com/signup)",
+    "BOT": "Hi there! I’m the helper bot for Chime, your mobile bank.\n![chime](https://raw.githubusercontent.com/sfny/jbot/master/img/chime.png)\nWant to know more about Chime? %[What is Chime?](postback:what_is_chime) %[Learn about ChimeBot](postback:learn_about_chimebot) %[Signup](https://www.chimecard.com/signup)",
     "HELLO": "Hey, I'm so glad your here",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "WHAT IS CHIME": "Chime is new type of bank, with no fees, that automatically helps you with your money.",
